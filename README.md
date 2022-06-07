@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FOOD-BOOKING](https://sandeepyadav9.github.io/FOOD-BOOKINGS/)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **React-Native , Node.Js, ExpressJs, Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandeepYadav9](https://github.com/SandeepYadav9)
 
