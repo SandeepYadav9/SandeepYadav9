@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandeepYadav9](https://github.com/SandeepYadav9)
 
-- 💬 Ask me about **ReactJs,React-Hooks,Redux,Redux-Hooks JS, HTML, CSS ,**
+- 💬 Ask me about **ReactJs, Redux,  Redux-Hooks,  JS, HTML, CSS ,**
 
 - 📫 How to reach me **sandeepuit10@gmail.com**
 
