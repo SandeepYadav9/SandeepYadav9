@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Linxio Vehicle Management] Further i will update Name...(Linxio Vehicle Management)
+- 🔭 I’m currently working on **Linxio Vehicle Management** Further i will update Name...()
 
 - 🌱 I’m currently learning **React-Native**
 
