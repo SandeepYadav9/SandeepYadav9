@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
+<h1 align="center">Hi , I'm Sandeep Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Linxio Vehicle Management** Further i will update Name...()
+0. I’m currently working on **COMPLETING ECOMERSE-MART WEB PAGE** 
+- 1. I’m currently working on **Linxio Vehicle Management** Further i will update Name...()
 
-- 🌱 I’m currently learning **React-Native**
+- 2. I’m currently learning **React-Native**
 
-- 🌱 I’m currently Worked on **Node.Js, ExpressJs, Mongoose, MongoDB 6+ Month**
+- 3. I’m currently Worked on **Node.Js, ExpressJs, Mongoose, MongoDB 6+ Month**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SandeepYadav9](https://github.com/SandeepYadav9)
+- 4. All of my projects are available at [https://github.com/SandeepYadav9](https://github.com/SandeepYadav9)
 
-- 💬 Ask me about **ReactJs, Redux,  Redux-Hooks,  JS, HTML, CSS ,**
+- 5. Ask me about **ReactJs, Redux,  Redux-Hooks,  JS, HTML, CSS ,**
 
-- 📫 How to reach me **sandeepuit10@gmail.com**
+- 6. How to reach me **sandeepuit10@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SandeepYadav9/PORTFOLIO](https://github.com/SandeepYadav9/PORTFOLIO)
+- 7. Know about my experiences [https://github.com/SandeepYadav9/PORTFOLIO](https://github.com/SandeepYadav9/PORTFOLIO)
 
-- ⚡ Hobbies **Coding, Songs, Writing Notes, Chess Playing**
+- 8. Hobbies **Coding, Songs, Writing Notes, Chess Playing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
